@@ -1,0 +1,11 @@
+<resources>
+    <style name="CalcButton">
+
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_margin">1dp</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item> <!-- Здесь укажите ваш макет заставки -->
+    </style>
+</resources>
