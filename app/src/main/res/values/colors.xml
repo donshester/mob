@@ -12,5 +12,7 @@
     <color name="back2">#2C003C</color>
     <color name="back3">#3D0B45</color>
     <color name="soft_purple">#623C6F</color>
-
+    <color name="color1">#FF0000</color>
+    <color name="color2">#00FF00</color>
+    <color name="color3">#0000FF</color>
 </resources>
